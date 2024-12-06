@@ -1,0 +1,27 @@
+.set h1{
+    font-size: 90px;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+
+.touche {
+    margin: auto;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+
+}
+
+.back{
+    font-size: 40px;
+    display: flex; 
+    justify-content: center;
+    margin-top: 200px;
+    bottom: 10px;
+    
+}
+.back a{
+    color: black;
+}
