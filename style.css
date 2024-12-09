@@ -2,7 +2,7 @@
 
 .imagedefond { 
     z-index: 2;
-    background-image: url("image/fond.jpg");
+    background-image: url("image/snake.jpeg");
     border-radius: 30px;
   }
 .cadre {
