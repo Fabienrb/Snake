@@ -31,7 +31,7 @@ ul li a:hover{
 }
 .menu li{
     display: flex;
-    padding: 50%;
+    padding: 38%;
     align-items: center;
     justify-content: center;
 }
